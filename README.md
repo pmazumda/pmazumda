@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Pinak Mazumdar, I am currently working as a DevOps Architect with Sapiens Technologies in India. 
+# 👋 Hello, I'm Pinak Mazumdar, currently working as a DevOps Architect with one of the leading MNC. 
 
-## DevOps Practioner | Cloud Enthusiast | Automation Maestro
+## DevOps Practioner | Cloud Enthusiast | SRE Engineer
 
 I'm passionate about architecting robust and scalable DevOps solutions that bridge the gap between development and operations. With a keen eye for optimizing workflows and a knack for automating repetitive tasks, I strive to create efficient and resilient systems.
 
